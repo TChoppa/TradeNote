@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;600&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #0d0f14;
+  font-family: 'Inter', 'Roboto', sans-serif;
+  color: #e2e8f0;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: #13161f;
+}
+::-webkit-scrollbar-thumb {
+  background: #1c2030;
+  border-radius: 2px;
+}
